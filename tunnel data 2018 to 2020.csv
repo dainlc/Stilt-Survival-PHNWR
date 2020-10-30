@@ -1,0 +1,13 @@
+RefugeUnit,Names of Surveyors,Survey Date,#Tunnels Deployed,#Tunnels with Mongoose tracks,#Tunnels with Rat tracks,#Tunnels with Mouse tracks,TRACKING INDEX (Mongooses),TRACKING INDEX (Rats),TRACKING INDEX (Mice)
+PHR_Hono_Out,Bret W,9/25/2018,8,7,1,2,0.88,0.13,0.25
+PHR_Hono_Out,Bret W,4/9/2019,6,4,4,1,0.67,0.67,0.17
+PHR_Hono_Out,Ty S,8/19/2019,5,4,1,2,0.80,0.20,0.40
+PHR_Hono_Out,Ty S,8/25/2020,6,6,0,5,1.00,0.00,0.83
+PHR_Honouliuli,Bret W,9/25/2018,15,2,11,5,0.13,0.73,0.33
+PHR_Honouliuli,Bret W,4/9/2019,14,1,1,5,0.07,0.07,0.36
+PHR_Honouliuli,Ty S,8/19/2019,15,6,6,8,0.40,0.40,0.53
+PHR_Honouliuli,Ty S,8/25/2020,16,1,3,2,0.06,0.19,0.13
+PHR_Waiawa,Bret W,9/25/2018,12,5,0,7,0.42,0.00,0.58
+PHR_Waiawa,Bret W,4/9/2019,12,4,4,7,0.33,0.33,0.58
+PHR_Waiawa,Ty S,8/19/2019,10,4,1,7,0.40,0.10,0.70
+PHR_Waiawa,Ty S,8/25/2020,10,4,4,4,0.40,0.40,0.40
