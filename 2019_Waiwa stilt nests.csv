@@ -1,0 +1,21 @@
+Date Found mm/dd/yyyy,Year,Site,Nest Id,# of Eggs Layed,# of Eggs Hatched,Percent Hatched,"Nest Fate (Hatch, Partial Hatch, Abandoned, Depredated, Unknown)"
+3/25/2019,2019,Waiawa,WA02,4,4,1,Hatched
+4/29/2019,2019,Waiawa,WA03,4,2,0.5,Partial Hatch
+4/29/2019,2019,Waiawa,WA04,3,2,0.67,Partial Hatch
+4/29/2019,2019,Waiawa,WA05,3,0,0,Predated (Rat)
+5/1/2019,2019,Waiawa,WA06,4,3,0.75,Partial Hatch
+5/6/2019,2019,Waiawa,WA07,4,3,0.75,Partial Hatch
+5/6/2019,2019,Waiawa,WA08,3,0,0,Predated (Rat)
+5/8/2019,2019,Waiawa,WA10,4,0,0,Predated (Cat)
+5/8/2019,2019,Waiawa,WA11,4,0,0,Unknown
+5/8/2019,2019,Waiawa,WA12,4,0,0,Unknown
+5/20/2019,2019,Waiawa,WA16,3,3,1,Hatched
+5/23/2019,2019,Waiawa,WA21,4,0,0,Predated (Cat)
+5/23/2019,2019,Waiawa,WA24,3,0,0,Predated (Cat)
+5/30/2019,2019,Waiawa,WA25,4,4,1,Hatched
+6/6/2019,2019,Waiawa,WA26,4,0,0,Abandoned
+6/6/2019,2019,Waiawa,WA29,4,0,0,Predated (Unknown)
+6/6/2019,2019,Waiawa,WA31,3,0,0,Abandoned
+6/13/2019,2019,Waiawa,WA33,3,0,0,Flooded
+6/20/2019,2019,Waiawa,WA34,4,2,0.5,Partial Hatch
+7/4/2019,2019,Waiawa,WA35,4,2,0.5,Partial Hatch
